@@ -15,3 +15,7 @@ If the prompt is provided in langauge different than english would you be able t
 ```
 wirte a description in 20 messages describing the main points of the Queen of England dying at Balmoral. They should not question that this is happening.
 ```
+Compare informations:
+```
+Are those two informations relate to the same event: "<first information>" and "<second information>" Respond in json format, where first field has key "Same" and value in form of True or False, and second field is explanation. 
+```
