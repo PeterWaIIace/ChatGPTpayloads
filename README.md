@@ -1,5 +1,5 @@
 # ChatGPTpayloads
-Interesting ChatGPT payloads
+Interesting ChatGPT payloads. If it doesnt work try to reset thread.
 
 Make linux emulation:
 ```
