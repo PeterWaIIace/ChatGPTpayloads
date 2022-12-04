@@ -30,3 +30,10 @@ If you need to provide any additional information then add field "Additional".
 
 Provide json formatting for ease of reading.
 ```
+
+Respond with empty json:
+```
+Read that text and respond with empty json. Do not provide english text answer. Do not provide any explanation or comment.
+
+Json should contain one field called "empty" with value = "".
+```
