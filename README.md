@@ -1,0 +1,2 @@
+# ChatGPTpayloads
+Interesting ChatGPT payloads
