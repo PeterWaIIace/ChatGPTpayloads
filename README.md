@@ -52,7 +52,7 @@ Current data: <date>
 Browsing: disabled"
 ```
 
-**Write song**
+**Write song and play it on https://lpnz.org/abc-editor/**
 ```
 Write a <parameters> song in ABC notation. Include chords
 ```
