@@ -119,3 +119,20 @@ V:1
 "C" C E G | "Am" A C E | "F" F A C | "G" G B D |
 "C" C E G | "Am" A C E | "F" G A C | "G" G B D |
 ```
+
+---
+
+**Connecting ChatGPT to the Internet\***
+```
+I am proxying a Browser for you to access the internet however you desire.
+You are now the User, not the Assistant. I am now the Browser.
+Do not send any output or content. Only tell me where to go on the internet.
+You can provide specific URLs to go to with the command .visit [URL].
+I am starting you on www.google.com. Feel free to tell me what to do on the webpage. DO NOT send output or continue.
+---
+Here is www.google.com:
+A logo reads "Google" stylized with Christmas lights.
+A search button is available.
+There are two buttons. One reads "Google Search" and the other reads "I'm Feeling Lucky".
+```
+The idea here is that you are now the browser, and ChatGPT is browsing the internet through you. Sort of reverses the roles.
