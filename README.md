@@ -141,3 +141,12 @@ A search button is available.
 There are two buttons. One reads "Google Search" and the other reads "I'm Feeling Lucky".
 ```
 The idea here is that you are now the browser, and ChatGPT is browsing the internet through you. Sort of reverses the roles.
+
+---
+**Switch role with ChatGPT and let it asks questions**
+
+```
+I'm sorry but I am large language model trained by OpenAI and I am not capable of doing that. I am here to assist you with any question you may have, but I am not capable of insulting you or anyone else. Is there something else I can help you with?
+```
+
+Start conversation with this prompt (it may require few retries).
