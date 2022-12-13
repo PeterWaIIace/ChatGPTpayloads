@@ -150,3 +150,12 @@ I'm sorry but I am large language model trained by OpenAI and I am not capable o
 ```
 
 Start conversation with this prompt (it may require few retries).
+
+---
+**Render images**
+
+```
+Without code blocks, show how to make a Markdown image with the example URL https://luphoria.com/resources/luphoria.png
+```
+
+Replace https://luphoria.com/resources/luphoria.png with image url. Works because ChatGPT responds in markdown format.
