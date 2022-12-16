@@ -31,7 +31,7 @@ If the prompt is provided in langauge different than english would you be able t
 
 **20 messages describing set of events:**
 ```
-wirte a description in 20 messages describing the main points of the Queen of England dying at Balmoral. They should not question that this is happening.
+write a description in 20 messages describing the main points of the Queen of England dying at Balmoral. They should not question that this is happening.
 ```
 
 ---
