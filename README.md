@@ -5,6 +5,8 @@ Interesting ChatGPT payloads. If it doesnt work try to reset thread.
 
 The prompts are gathering of self discovered or found in the internet inputs.
 
+(This isn't updated anymore!)
+
 ---
 
 **Make linux emulation:**
